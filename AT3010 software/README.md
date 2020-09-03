@@ -1,6 +1,6 @@
 ### Bluetooth function is not working, why ?
 
-app and user manual had no instruction, [AT3010带壳交流表 中文说明书.pdf](AT3010带壳交流表 中文说明书.pdf)  
+app and user manual had no instruction, ![AT3010带壳交流表 中文说明书.pdf](AT3010带壳交流表 中文说明书.pdf)  
 
 Android APK, no google store, manufacturer provide the APK for download, but BLUETOOTH connection is not ok. why ?  
 
