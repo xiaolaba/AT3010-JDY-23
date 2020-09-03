@@ -2,7 +2,7 @@
 
 
 
-Android APK, no google store but manufacturer provide the APK for download, but BLUETOOTH connection is not ok. why ?
+Android APK, no google store, manufacturer provide the APK for download, but BLUETOOTH connection is not ok. why ?
 
 
 
