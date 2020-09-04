@@ -1,5 +1,5 @@
 # AT3010, JDY-23 bluetooth UART module
-reverse engineering the bluetooth UART module JDY-23 of AT3010 used.  
+reverse engineering the bluetooth UART module JDY-23 of AT3010 used, the blue color module.  
 all those information, datasheet and or related stuff, gathered from internet, used google search engine, no any affiliation to any of those company.
 
 
