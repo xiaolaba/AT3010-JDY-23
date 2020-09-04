@@ -14,10 +14,12 @@ all those information, datasheet and or related stuff, gathered from internet, u
 .  
 .  
 .  
-### old module JDY-18  
+### old module JDY-18,  
+![possible IC solution JDY-18_JY01SS12D.JPG](JDY-18_JY01SS12D.JPG)  
+.  
 ![AT3010_PCB_1.JPG](AT3010_PCB_1.JPG)  
-
+.  
 ![AT3010_PCB_2.JPG](AT3010_PCB_2.JPG)  
-
+.  
 ![JDY-18_bluetooth_module.JPG](JDY-18_bluetooth_module.JPG)  
 
