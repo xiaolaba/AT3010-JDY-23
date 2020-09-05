@@ -33,7 +33,7 @@ local printed copy
 ![主流蓝牙芯片设计厂商（2019）最新排名_cornrn的博客-CSDN博客.pdf](主流蓝牙芯片设计厂商（2019）最新排名_cornrn的博客-CSDN博客.pdf)  
 ![超全蓝牙芯片原厂总结(含芯片型号)-电子头条-EEWORLD电子工程世界.pdf](超全蓝牙芯片原厂总结(含芯片型号)-电子头条-EEWORLD电子工程世界.pdf)  
 
-SDK of MS1973 https://github.com/macrogiga
+SDK of MS1973 https://github.com/macrogiga  
 SDK for MS179x BLE chip (QFN32, Cortex-M0) 16Mhz, https://github.com/xiaolaba/MS1793-SDK  
 oh... ARM chip for BLE
 
