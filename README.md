@@ -23,3 +23,19 @@ all those information, datasheet and or related stuff, gathered from internet, u
 .  
 ![JDY-18_bluetooth_module.JPG](JDY-18_bluetooth_module.JPG)  
 
+seraching tlsr8263 datasheet, 
+https://www.google.com/search?safe=strict&client=firefox-b-d&ei=o-JSX-HUKJvrwQPeqJSgCA&q=tlsr8263+datasheet&oq=TLSR8263+dat&gs_lcp=CgZwc3ktYWIQARgAMgUIIRCgAToCCABQ0mtYq4UBYOKXAWgAcAB4AIABlwGIAecHkgEDOS4zmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab
+
+summary about BLE 5.0 and chip supply in the market.  
+https://blog.csdn.net/cornrn/article/details/100033122  
+http://news.eeworld.com.cn/mp/BLE5CODER/a39122.jspx  
+local printed copy  
+![主流蓝牙芯片设计厂商（2019）最新排名_cornrn的博客-CSDN博客.pdf](主流蓝牙芯片设计厂商（2019）最新排名_cornrn的博客-CSDN博客.pdf)  
+![超全蓝牙芯片原厂总结(含芯片型号)-电子头条-EEWORLD电子工程世界.pdf](超全蓝牙芯片原厂总结(含芯片型号)-电子头条-EEWORLD电子工程世界.pdf)  
+
+SDK of MS1973 https://github.com/macrogiga
+SDK for MS179x BLE chip (QFN32, Cortex-M0) 16Mhz, https://github.com/xiaolaba/MS1793-SDK  
+oh... ARM chip for BLE
+
+
+
