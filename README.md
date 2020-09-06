@@ -8,7 +8,7 @@ Note: DO NOT uses for 220VAC & 100A and constantly metering, it has not enough o
 ![AT3010_2020-09-06_11.56.36.jpg](AT3010_2020-09-06_11.56.36.jpg)
 
 
-my schematic and fun to learn something new, copyright is retianed my own learning material, it is nothing related to manufacturer. It is incomplete but enough to understand the prespective of circuit design and operation thoery.  
+my schematic and fun to learn something new, copyright is retianed as my own learning material, it is nothing related to manufacturer. This schematic is incomplete but enough to understand the prespective of circuit design and operation thoery, for example. 4 pieces of R0001 paralleled, it should be the current senseing resitor for metering.  
 ![AT3010_2020-09-06_11.56.25.jpg](AT3010_2020-09-06_11.56.25.jpg)  
 .  
 .  
