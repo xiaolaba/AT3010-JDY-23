@@ -4,9 +4,15 @@
 reverse engineering the bluetooth UART module JDY-23 of AT3010 used, the blue color module.  
 all those information, datasheet and or related stuff, gathered from internet, used google search engine, no any affiliation to any of those company.
 
-Note: do not use for 220VAC & 100A and constantly metering, it is not enough of safety. 13A is so so and should be ok. This new buying unit out of a purchased batch has defect as the connector has been corroded possibly due to soldering flux residue and no cleaning, screw corroded & jammed, brute force kicks it off. Upon this fix and opened the case, try to see the circuit design, it should be one of typical power metering solution that booms few years ago. However, IC marking has been ripped off as possible to slow down conterfeit if it was really great product design and hot selling.
+Note: DO NOT uses for 220VAC & 100A and constantly metering, it has not enough of safety. 13A is so so and should be ok. This new buying unit out of a purchased batch has defect as the connector has been corroded possibly due to soldering flux residue and no cleaning, screw corroded & jammed, brute force kicks it off. Upon this fix and opened the case, try to see the circuit design, it should be one of typical power metering solution that booms few years ago. However, IC marking has been ripped off as possible to slow down conterfeit if it was really great product design and hot selling.
+![AT3010_2020-09-06_11.56.36.jpg](AT3010_2020-09-06_11.56.36.jpg)
 
-my schematic and fun to learn something new, copyright is retianed my own learning material, it is nothing related to manufacturer. It is incomplete but enough to understand the prespective of circuit design and operation thoery.
+
+my schematic and fun to learn something new, copyright is retianed my own learning material, it is nothing related to manufacturer. It is incomplete but enough to understand the prespective of circuit design and operation thoery.  
+![AT3010_2020-09-06_11.56.25.jpg](AT3010_2020-09-06_11.56.25.jpg)  
+.  
+.  
+
 
 
 
